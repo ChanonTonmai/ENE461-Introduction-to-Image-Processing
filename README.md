@@ -13,4 +13,4 @@ Semester 2/2016
 1. Using auto threshold to convert grayscale image to binary image using maximum normal line method         
 2. Using auto threshold to convert grayscale image to binary image using average intensity method                         
 3. Blob labeling without using matlab function 
-(extra) Using auto threshold to convert grayscale image to binary image using your own method 
+* (Extra) Using auto threshold to convert grayscale image to binary image using your own method 

@@ -1,3 +1,4 @@
+% written by Ma-prang Ncpy
 gray = rgb2gray(imread('test.jpg'));
  
 [i,j] = size(gray);

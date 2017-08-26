@@ -33,6 +33,6 @@ Semester 2/2016
 **Class8** : Talk about image morphology (dilate and erode)   
 **HW8** : Implement an dilation and erotion in image
 
-**Class9** : Talk about image restoration
+**Class9** : Talk about image restoration        
 **HW9** : Add noise to image and restore an image
 

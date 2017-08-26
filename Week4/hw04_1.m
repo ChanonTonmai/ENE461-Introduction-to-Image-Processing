@@ -1,3 +1,11 @@
+% Filtering with the mask ones 
+%            --- --- ---
+%           | 1 | 1 | 1 |
+%            --- --- ---
+% image *   | 1 | 1 | 1 |
+%            --- --- ---
+%           | 1 | 1 | 1 |
+%            --- --- ---
 original = imread('lena.jpg');
 gray = rgb2gray(original);
 mask = ones(3,3);

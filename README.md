@@ -14,3 +14,8 @@ Semester 2/2016
 2. Using auto threshold to convert grayscale image to binary image using average intensity method                         
 3. Blob labeling without using matlab function 
 * (Extra) Using auto threshold to convert grayscale image to binary image using your own method 
+
+**Class3** : Talk about image scaling and image rotation                                              
+**HW3** : 
+  <No Homework for this week>
+  

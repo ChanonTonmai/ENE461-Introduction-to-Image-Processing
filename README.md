@@ -27,7 +27,7 @@ Semester 2/2016
 **Class6** : Talk about image enhancement    
 **HW6** : Implement an image histogram equalization
 
-**Class7** : Talk about frequency filtering 
+**Class7** : Talk about frequency filtering                    
 **HW7** : Implement a FFT for image
 
 **Class8** : Talk about image morphology (dilate and erode)   

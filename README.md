@@ -18,8 +18,11 @@ Semester 2/2016
 **Class3** : Talk about image scaling and image rotation                                              
 **HW3** : No Homework for this week
   
-**Class4** : Talk about image enhancement                                      
-**HW4** : Implement histogram equalization
-  
-**Class5** : Talk about filtering an image                        
-**HW5** : Create an image filtering with low-pass and high-pass filter
+**Class4** : Talk about filtering an image                        
+**HW4** : Create an image filtering with low-pass and high-pass filter
+
+**Class5** : Talk about edge detection            
+**HW5** : Create an Hough transform 
+
+**Class6** : Talk about image enhancement    
+**HW6** : Implement an image histogram equalization

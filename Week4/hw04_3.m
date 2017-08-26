@@ -1,3 +1,4 @@
+% Filtering with the laplacian of gaussian (high-pass filter) 
 original = imread('lena.jpg');
 gray = rgb2gray(original);
 gray2=int32(gray);

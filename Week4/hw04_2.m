@@ -1,3 +1,4 @@
+% Filtering with the gaussian filter (low-pass filter)
 original = imread('lena.jpg');
 gray = rgb2gray(original);
 mask = ones(3,3);

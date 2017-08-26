@@ -16,6 +16,10 @@ Semester 2/2016
 * (Extra) Using auto threshold to convert grayscale image to binary image using your own method 
 
 **Class3** : Talk about image scaling and image rotation                                              
-**HW3** : 
-  <No Homework for this week>
+**HW3** : No Homework for this week
   
+**Class4** : Talk about image enhancement                                      
+**HW4** : Implement histogram equalization
+  
+**Class5** : Talk about filtering an image                        
+**HW5** : Create an image filtering with low-pass and high-pass filter
